@@ -1,4 +1,4 @@
-### Hi there, I'm Xiangning! 👋
+### Hi there, I'm Daniel! 👋
 #### A PhD candidate in Computer Vision and Natural Language Processing at MIT
 
 I am a PhD candidate at MIT, specializing in the fields of computer vision and natural language processing. I am passionate about leveraging the power of these domains to solve real-world problems and advance the state-of-the-art in AI.
